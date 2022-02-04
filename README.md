@@ -1,7 +1,7 @@
 # Spider Arcade Game <h1>
 
 ## Introduction <h2>
-<p>Spider Arcade Game is a game where the player controls a little spider who is trying to protect herself from other invasive bugs. To do so, she is able to create little spiderweb projectiles (in a limited ammount) and shoot at the direction where the player aims.</p>
+Spider Arcade Game is a game where the player controls a little spider who is trying to protect herself from other invasive bugs. To do so, she is able to create little spiderweb projectiles (in a limited ammount) and shoot at the direction where the player aims.
 
 ## Controls <h2>
 * MOVE : W, A, S, D keys or the arrow keys
@@ -12,7 +12,7 @@
 ![Controls](https://raw.githubusercontent.com/MatheusFarias03/SpiderArcadeGame/master/sprites/controls.png)
 
 ## Levels <h2>
-<p>Each level has a corresponding amount of small enemies. These enemies are randomly generated outside the screen and slowly move towards the player.</p>
+Each level has a corresponding amount of small enemies. These enemies are randomly generated outside the screen and slowly move towards the player.
 
 ![Small enemies chasing the player](https://scontent.fgru5-1.fna.fbcdn.net/v/t39.30808-6/273352215_4538507299594120_270327987380340923_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEsVZj1dWpsNyTqz0TYDih0HyQKKsIn_tEfJAoqwif-0d3mpmn7eQ3FVWMGQHbPd2kmuPKSPWZvbfSTg-7zpK6J&_nc_ohc=WD0L3RhIWkwAX_D0OUx&_nc_ht=scontent.fgru5-1.fna&oh=00_AT8uLI4xnMKtWUflONh6k2AyH_pF2B1uCgwomgXZKHbzcA&oe=620193A5)
 
