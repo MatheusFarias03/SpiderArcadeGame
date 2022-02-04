@@ -1,5 +1,4 @@
 # Spider Arcade Game <h1>
-=========================
 
 ## Introduction <h2>
 <p>Spider Arcade Game is a game where the player controls a little spider who is trying to protect herself from other invasive bugs. To do so, she is able to create little spiderweb projectiles (in a limited ammount) and shoot at the direction where the player aims.</p>
